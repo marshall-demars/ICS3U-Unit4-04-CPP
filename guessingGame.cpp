@@ -1,5 +1,6 @@
-// Copyright (c) 2022 Marshall Demars
-//
+// Copyright (c) 2022 Marshall Demars All rights reserved
+
+// Created by: Marshall Demars
 // Created on: Nov 2022
 // This program sees if you guess the right number using while true
 
